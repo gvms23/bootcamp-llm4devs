@@ -10,6 +10,15 @@ docker run --name container-pgvector -e POSTGRES_PASSWORD=postgres -e PGUSER=pos
 ```
 Subi com a porta 5433 porque da 5432 o PostgreSQL na máquina já usava e precisava acessar o do Docker via pgAdmin.
 
+Links usados:
+- https://platform.openai.com/settings/organization/billing/overview
+- https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/recursive_text_splitter/
+- Contribuição pra entender tokenization: https://x.com/DefenderOfBasic/status/1770256490974085389
+
+Fotos:
+![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/6573f5d7-a708-4b3b-85ca-09e535177fb7)
+![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/1f4127de-8fc2-49c4-8312-2356e48c8763)
+
 -------------------------------
 
 Olá! Que honra ter você conosco no Bootcamp LLM4Devs! Espero que o bootcamp seja muito útil na sua jornada na criação de aplicações baseadas em LLMs.
