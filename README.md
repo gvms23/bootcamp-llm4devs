@@ -2,10 +2,12 @@
 
 
 ## Comandos usados:
-Ambiente: Windows
-PostgreSQL na máquina + pgAdmin
-Docker: ## docker run --name container-pgvector -e POSTGRES_PASSWORD=postgres -e PGUSER=postgres -d -p 5433:5432 pgvector/pgvector:pg16
-
+- Ambiente: Windows
+- PostgreSQL na máquina + pgAdmin
+- Docker:
+```
+docker run --name container-pgvector -e POSTGRES_PASSWORD=postgres -e PGUSER=postgres -d -p 5433:5432 pgvector/pgvector:pg16
+```
 Subi com a porta 5433 porque da 5432 o PostgreSQL na máquina já usava e precisava acessar o do Docker via pgAdmin.
 
 -------------------------------
