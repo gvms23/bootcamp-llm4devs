@@ -18,6 +18,10 @@ Links usados:
 Fotos:
 ![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/6573f5d7-a708-4b3b-85ca-09e535177fb7)
 ![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/1f4127de-8fc2-49c4-8312-2356e48c8763)
+![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/d52a6f99-d793-4128-851c-d43450c76b72)
+![image](https://github.com/gvms23/bootcamp-llm4devs/assets/24459642/6a7cbb7c-9918-4346-b84c-d48531cc4ae8)
+
+
 
 -------------------------------
 
